@@ -1,0 +1,48 @@
+.clear-margin {
+	margin: 0 !important;
+}
+.prime-color {
+	color: #ED292E !important;
+}
+#top-bar {
+	position: relative;
+	z-index: 9999;
+	background: #017DF3;
+	color: #d5d5d5;
+	font-size: 12px;
+	line-height: 24px;
+	padding: 12px 0;
+}
+.top-bar-row {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+#logo-wrap {
+	align-items: center;
+	display: flex;
+}
+.main-logo {
+	width: 70px;
+	height: 70px;
+}
+.logo-title{
+	font-size: 30px !important;
+	font-weight: 700 !important;
+	line-height: 0.75 !important;
+	color: #57ccc3 !important;
+	margin-left: 7px !important;
+	margin-top: 0 !important;
+}
+#smiles-wrap {
+	min-height: 200px !important;
+    display: flex !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+}
+.newsletter_title{
+	font-weight: 700 !important;
+    font-size: 40px !important;
+}
+.footer_content{
+	/*padding-top: 55px !important;*/
+}
